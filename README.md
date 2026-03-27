@@ -12,10 +12,8 @@
 
 > Dashboard con precio en tiempo real, indicadores técnicos, análisis de IA y gestión de posiciones.
 
-![Dashboard Preview](docs/preview.png)
-*(Agregá una captura de pantalla del dashboard)*
+---<img width="1136" height="658" alt="Captura de pantalla 2026-03-27 a las 12 05 53 a  m" src="https://github.com/user-attachments/assets/6f4b2d1b-23bd-4048-8efb-887ac6aa6a16" />
 
----
 
 ## ✨ Features
 
